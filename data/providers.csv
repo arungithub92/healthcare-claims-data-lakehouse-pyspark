@@ -1,0 +1,401 @@
+provider_id,provider_type,provider_state,network_status
+3001,Clinic,Telangana,In Network
+3002,Clinic,Tamil Nadu,In Network
+3003,Hospital,Telangana,In Network
+3004,Diagnostic Centre,Tamil Nadu,In Network
+3005,Hospital,Telangana,In Network
+3006,Diagnostic Centre,Kerala,In Network
+3007,Clinic,Telangana,In Network
+3008,Clinic,Delhi,In Network
+3009,Clinic,Kerala,Out of Network
+3010,Hospital,Delhi,Out of Network
+3011,Diagnostic Centre,Tamil Nadu,In Network
+3012,Hospital,Karnataka,Out of Network
+3013,Diagnostic Centre,Kerala,In Network
+3014,Hospital,Maharashtra,In Network
+3015,Clinic,Maharashtra,In Network
+3016,Pharmacy,Tamil Nadu,Out of Network
+3017,Pharmacy,Tamil Nadu,Out of Network
+3018,Hospital,Tamil Nadu,Out of Network
+3019,Hospital,Karnataka,Out of Network
+3020,Pharmacy,Maharashtra,In Network
+3021,Diagnostic Centre,Maharashtra,In Network
+3022,Diagnostic Centre,Telangana,In Network
+3023,Pharmacy,Tamil Nadu,In Network
+3024,Diagnostic Centre,Delhi,In Network
+3025,Diagnostic Centre,Kerala,In Network
+3026,Pharmacy,Karnataka,Out of Network
+3027,Hospital,Tamil Nadu,In Network
+3028,Clinic,Maharashtra,In Network
+3029,Hospital,Maharashtra,Out of Network
+3030,Clinic,Tamil Nadu,In Network
+3031,Diagnostic Centre,Kerala,In Network
+3032,Pharmacy,Karnataka,In Network
+3033,Hospital,Maharashtra,Out of Network
+3034,Clinic,Tamil Nadu,In Network
+3035,Pharmacy,Telangana,In Network
+3036,Diagnostic Centre,Delhi,In Network
+3037,Pharmacy,Telangana,In Network
+3038,Clinic,Kerala,In Network
+3039,Pharmacy,Delhi,In Network
+3040,Pharmacy,Karnataka,In Network
+3041,Pharmacy,Kerala,In Network
+3042,Pharmacy,Karnataka,In Network
+3043,Pharmacy,Tamil Nadu,Out of Network
+3044,Clinic,Karnataka,Out of Network
+3045,Diagnostic Centre,Kerala,In Network
+3046,Pharmacy,Tamil Nadu,In Network
+3047,Clinic,Maharashtra,In Network
+3048,Pharmacy,Delhi,In Network
+3049,Pharmacy,Delhi,In Network
+3050,Diagnostic Centre,Karnataka,Out of Network
+3051,Clinic,Telangana,In Network
+3052,Diagnostic Centre,Karnataka,Out of Network
+3053,Hospital,Tamil Nadu,Out of Network
+3054,Diagnostic Centre,Maharashtra,In Network
+3055,Clinic,Delhi,In Network
+3056,Hospital,Kerala,In Network
+3057,Pharmacy,Karnataka,In Network
+3058,Clinic,Kerala,In Network
+3059,Diagnostic Centre,Kerala,Out of Network
+3060,Clinic,Delhi,In Network
+3061,Clinic,Karnataka,In Network
+3062,Hospital,Telangana,In Network
+3063,Diagnostic Centre,Tamil Nadu,In Network
+3064,Hospital,Tamil Nadu,In Network
+3065,Diagnostic Centre,Telangana,In Network
+3066,Diagnostic Centre,Karnataka,In Network
+3067,Clinic,Karnataka,In Network
+3068,Clinic,Kerala,In Network
+3069,Hospital,Tamil Nadu,In Network
+3070,Clinic,Tamil Nadu,In Network
+3071,Clinic,Kerala,Out of Network
+3072,Clinic,Telangana,In Network
+3073,Diagnostic Centre,Telangana,In Network
+3074,Pharmacy,Delhi,In Network
+3075,Hospital,Telangana,In Network
+3076,Hospital,Karnataka,In Network
+3077,Hospital,Kerala,In Network
+3078,Clinic,Maharashtra,In Network
+3079,Pharmacy,Telangana,In Network
+3080,Clinic,Telangana,In Network
+3081,Pharmacy,Maharashtra,In Network
+3082,Hospital,Kerala,In Network
+3083,Diagnostic Centre,Kerala,In Network
+3084,Diagnostic Centre,Karnataka,Out of Network
+3085,Pharmacy,Tamil Nadu,In Network
+3086,Pharmacy,Telangana,In Network
+3087,Pharmacy,Karnataka,In Network
+3088,Pharmacy,Karnataka,In Network
+3089,Pharmacy,Karnataka,In Network
+3090,Pharmacy,Delhi,Out of Network
+3091,Diagnostic Centre,Kerala,Out of Network
+3092,Pharmacy,Telangana,In Network
+3093,Clinic,Telangana,In Network
+3094,Diagnostic Centre,Kerala,In Network
+3095,Hospital,Maharashtra,In Network
+3096,Hospital,Maharashtra,In Network
+3097,Diagnostic Centre,Karnataka,In Network
+3098,Diagnostic Centre,Tamil Nadu,In Network
+3099,Pharmacy,Delhi,In Network
+3100,Hospital,Kerala,In Network
+3101,Hospital,Maharashtra,In Network
+3102,Hospital,Maharashtra,In Network
+3103,Clinic,Karnataka,In Network
+3104,Pharmacy,Delhi,Out of Network
+3105,Clinic,Tamil Nadu,In Network
+3106,Diagnostic Centre,Maharashtra,In Network
+3107,Clinic,Delhi,In Network
+3108,Clinic,Kerala,In Network
+3109,Clinic,Maharashtra,In Network
+3110,Hospital,Karnataka,In Network
+3111,Clinic,Maharashtra,In Network
+3112,Clinic,Maharashtra,In Network
+3113,Hospital,Karnataka,In Network
+3114,Pharmacy,Delhi,In Network
+3115,Diagnostic Centre,Karnataka,Out of Network
+3116,Clinic,Telangana,In Network
+3117,Diagnostic Centre,Tamil Nadu,In Network
+3118,Hospital,Kerala,In Network
+3119,Pharmacy,Karnataka,In Network
+3120,Pharmacy,Delhi,In Network
+3121,Pharmacy,Karnataka,In Network
+3122,Diagnostic Centre,Delhi,In Network
+3123,Hospital,Telangana,Out of Network
+3124,Clinic,Kerala,In Network
+3125,Hospital,Telangana,In Network
+3126,Pharmacy,Tamil Nadu,In Network
+3127,Diagnostic Centre,Maharashtra,In Network
+3128,Diagnostic Centre,Karnataka,Out of Network
+3129,Diagnostic Centre,Kerala,In Network
+3130,Hospital,Telangana,In Network
+3131,Hospital,Kerala,In Network
+3132,Clinic,Telangana,In Network
+3133,Pharmacy,Tamil Nadu,In Network
+3134,Hospital,Telangana,In Network
+3135,Clinic,Maharashtra,In Network
+3136,Hospital,Delhi,Out of Network
+3137,Pharmacy,Karnataka,In Network
+3138,Clinic,Maharashtra,In Network
+3139,Clinic,Tamil Nadu,In Network
+3140,Hospital,Maharashtra,In Network
+3141,Clinic,Delhi,In Network
+3142,Hospital,Maharashtra,In Network
+3143,Pharmacy,Delhi,In Network
+3144,Clinic,Telangana,In Network
+3145,Pharmacy,Karnataka,Out of Network
+3146,Hospital,Delhi,Out of Network
+3147,Hospital,Delhi,In Network
+3148,Diagnostic Centre,Telangana,In Network
+3149,Hospital,Maharashtra,In Network
+3150,Diagnostic Centre,Telangana,In Network
+3151,Pharmacy,Maharashtra,In Network
+3152,Pharmacy,Karnataka,In Network
+3153,Hospital,Delhi,In Network
+3154,Hospital,Tamil Nadu,In Network
+3155,Clinic,Karnataka,In Network
+3156,Diagnostic Centre,Telangana,In Network
+3157,Clinic,Maharashtra,In Network
+3158,Clinic,Maharashtra,Out of Network
+3159,Diagnostic Centre,Telangana,Out of Network
+3160,Clinic,Karnataka,In Network
+3161,Pharmacy,Karnataka,In Network
+3162,Pharmacy,Karnataka,In Network
+3163,Pharmacy,Karnataka,In Network
+3164,Diagnostic Centre,Delhi,In Network
+3165,Clinic,Delhi,In Network
+3166,Hospital,Telangana,In Network
+3167,Diagnostic Centre,Telangana,In Network
+3168,Diagnostic Centre,Maharashtra,Out of Network
+3169,Diagnostic Centre,Tamil Nadu,Out of Network
+3170,Hospital,Telangana,In Network
+3171,Pharmacy,Delhi,In Network
+3172,Pharmacy,Kerala,Out of Network
+3173,Diagnostic Centre,Maharashtra,In Network
+3174,Pharmacy,Maharashtra,In Network
+3175,Hospital,Karnataka,Out of Network
+3176,Clinic,Telangana,In Network
+3177,Diagnostic Centre,Maharashtra,In Network
+3178,Hospital,Maharashtra,In Network
+3179,Clinic,Delhi,In Network
+3180,Clinic,Kerala,In Network
+3181,Hospital,Karnataka,In Network
+3182,Diagnostic Centre,Tamil Nadu,In Network
+3183,Hospital,Delhi,In Network
+3184,Clinic,Delhi,In Network
+3185,Clinic,Delhi,In Network
+3186,Hospital,Karnataka,In Network
+3187,Clinic,Tamil Nadu,In Network
+3188,Diagnostic Centre,Telangana,In Network
+3189,Hospital,Karnataka,In Network
+3190,Clinic,Tamil Nadu,In Network
+3191,Hospital,Kerala,In Network
+3192,Pharmacy,Tamil Nadu,Out of Network
+3193,Pharmacy,Telangana,In Network
+3194,Diagnostic Centre,Telangana,In Network
+3195,Hospital,Delhi,In Network
+3196,Hospital,Telangana,Out of Network
+3197,Pharmacy,Kerala,In Network
+3198,Pharmacy,Karnataka,In Network
+3199,Hospital,Kerala,In Network
+3200,Hospital,Maharashtra,In Network
+3201,Diagnostic Centre,Delhi,In Network
+3202,Hospital,Telangana,Out of Network
+3203,Clinic,Karnataka,Out of Network
+3204,Hospital,Karnataka,In Network
+3205,Clinic,Karnataka,In Network
+3206,Pharmacy,Karnataka,In Network
+3207,Hospital,Telangana,In Network
+3208,Clinic,Delhi,Out of Network
+3209,Pharmacy,Kerala,In Network
+3210,Diagnostic Centre,Telangana,In Network
+3211,Hospital,Kerala,In Network
+3212,Diagnostic Centre,Maharashtra,In Network
+3213,Hospital,Karnataka,In Network
+3214,Diagnostic Centre,Telangana,Out of Network
+3215,Clinic,Maharashtra,In Network
+3216,Clinic,Delhi,In Network
+3217,Hospital,Kerala,In Network
+3218,Pharmacy,Telangana,In Network
+3219,Hospital,Kerala,Out of Network
+3220,Diagnostic Centre,Karnataka,In Network
+3221,Diagnostic Centre,Telangana,In Network
+3222,Clinic,Kerala,In Network
+3223,Hospital,Karnataka,Out of Network
+3224,Hospital,Delhi,In Network
+3225,Clinic,Tamil Nadu,In Network
+3226,Clinic,Telangana,Out of Network
+3227,Pharmacy,Karnataka,In Network
+3228,Clinic,Karnataka,In Network
+3229,Clinic,Kerala,In Network
+3230,Diagnostic Centre,Karnataka,Out of Network
+3231,Pharmacy,Karnataka,In Network
+3232,Clinic,Maharashtra,Out of Network
+3233,Pharmacy,Telangana,Out of Network
+3234,Diagnostic Centre,Tamil Nadu,In Network
+3235,Hospital,Kerala,In Network
+3236,Hospital,Delhi,In Network
+3237,Pharmacy,Maharashtra,In Network
+3238,Clinic,Kerala,Out of Network
+3239,Diagnostic Centre,Maharashtra,In Network
+3240,Hospital,Maharashtra,In Network
+3241,Diagnostic Centre,Karnataka,In Network
+3242,Clinic,Telangana,In Network
+3243,Hospital,Maharashtra,In Network
+3244,Diagnostic Centre,Karnataka,In Network
+3245,Hospital,Delhi,In Network
+3246,Diagnostic Centre,Tamil Nadu,In Network
+3247,Hospital,Kerala,In Network
+3248,Clinic,Delhi,Out of Network
+3249,Diagnostic Centre,Maharashtra,In Network
+3250,Hospital,Kerala,In Network
+3251,Pharmacy,Tamil Nadu,In Network
+3252,Clinic,Kerala,In Network
+3253,Pharmacy,Kerala,In Network
+3254,Clinic,Karnataka,In Network
+3255,Pharmacy,Maharashtra,In Network
+3256,Clinic,Telangana,In Network
+3257,Diagnostic Centre,Delhi,In Network
+3258,Hospital,Delhi,In Network
+3259,Clinic,Tamil Nadu,In Network
+3260,Clinic,Maharashtra,In Network
+3261,Pharmacy,Tamil Nadu,Out of Network
+3262,Diagnostic Centre,Delhi,In Network
+3263,Pharmacy,Telangana,In Network
+3264,Pharmacy,Tamil Nadu,In Network
+3265,Hospital,Kerala,In Network
+3266,Diagnostic Centre,Delhi,In Network
+3267,Clinic,Karnataka,In Network
+3268,Clinic,Delhi,Out of Network
+3269,Diagnostic Centre,Telangana,In Network
+3270,Diagnostic Centre,Telangana,In Network
+3271,Clinic,Karnataka,In Network
+3272,Hospital,Karnataka,In Network
+3273,Hospital,Delhi,In Network
+3274,Clinic,Telangana,Out of Network
+3275,Pharmacy,Telangana,In Network
+3276,Pharmacy,Kerala,In Network
+3277,Clinic,Maharashtra,In Network
+3278,Hospital,Tamil Nadu,In Network
+3279,Hospital,Karnataka,Out of Network
+3280,Pharmacy,Tamil Nadu,In Network
+3281,Hospital,Kerala,In Network
+3282,Hospital,Kerala,In Network
+3283,Clinic,Karnataka,In Network
+3284,Clinic,Maharashtra,In Network
+3285,Pharmacy,Delhi,In Network
+3286,Pharmacy,Maharashtra,In Network
+3287,Clinic,Telangana,Out of Network
+3288,Clinic,Tamil Nadu,In Network
+3289,Clinic,Karnataka,In Network
+3290,Clinic,Delhi,In Network
+3291,Diagnostic Centre,Maharashtra,In Network
+3292,Pharmacy,Karnataka,In Network
+3293,Pharmacy,Maharashtra,In Network
+3294,Clinic,Telangana,In Network
+3295,Hospital,Karnataka,In Network
+3296,Pharmacy,Telangana,In Network
+3297,Hospital,Maharashtra,In Network
+3298,Diagnostic Centre,Telangana,In Network
+3299,Pharmacy,Telangana,Out of Network
+3300,Clinic,Kerala,In Network
+3301,Diagnostic Centre,Karnataka,In Network
+3302,Pharmacy,Maharashtra,Out of Network
+3303,Pharmacy,Tamil Nadu,In Network
+3304,Pharmacy,Delhi,Out of Network
+3305,Diagnostic Centre,Delhi,In Network
+3306,Clinic,Delhi,In Network
+3307,Hospital,Karnataka,In Network
+3308,Clinic,Telangana,In Network
+3309,Pharmacy,Delhi,In Network
+3310,Clinic,Karnataka,In Network
+3311,Hospital,Tamil Nadu,In Network
+3312,Clinic,Tamil Nadu,In Network
+3313,Diagnostic Centre,Karnataka,In Network
+3314,Clinic,Tamil Nadu,In Network
+3315,Pharmacy,Maharashtra,Out of Network
+3316,Hospital,Telangana,In Network
+3317,Diagnostic Centre,Karnataka,In Network
+3318,Diagnostic Centre,Maharashtra,In Network
+3319,Pharmacy,Kerala,Out of Network
+3320,Diagnostic Centre,Tamil Nadu,Out of Network
+3321,Pharmacy,Maharashtra,In Network
+3322,Pharmacy,Telangana,In Network
+3323,Hospital,Tamil Nadu,In Network
+3324,Hospital,Telangana,Out of Network
+3325,Diagnostic Centre,Karnataka,In Network
+3326,Hospital,Kerala,In Network
+3327,Hospital,Kerala,In Network
+3328,Hospital,Maharashtra,In Network
+3329,Hospital,Telangana,Out of Network
+3330,Clinic,Tamil Nadu,In Network
+3331,Hospital,Delhi,In Network
+3332,Clinic,Kerala,In Network
+3333,Pharmacy,Delhi,In Network
+3334,Clinic,Karnataka,In Network
+3335,Diagnostic Centre,Telangana,Out of Network
+3336,Hospital,Tamil Nadu,In Network
+3337,Diagnostic Centre,Telangana,In Network
+3338,Pharmacy,Telangana,In Network
+3339,Pharmacy,Tamil Nadu,In Network
+3340,Diagnostic Centre,Tamil Nadu,In Network
+3341,Hospital,Tamil Nadu,In Network
+3342,Hospital,Kerala,In Network
+3343,Clinic,Karnataka,In Network
+3344,Diagnostic Centre,Kerala,Out of Network
+3345,Clinic,Kerala,Out of Network
+3346,Pharmacy,Delhi,In Network
+3347,Diagnostic Centre,Maharashtra,In Network
+3348,Hospital,Telangana,Out of Network
+3349,Diagnostic Centre,Karnataka,In Network
+3350,Diagnostic Centre,Kerala,In Network
+3351,Clinic,Kerala,Out of Network
+3352,Pharmacy,Kerala,In Network
+3353,Clinic,Tamil Nadu,In Network
+3354,Pharmacy,Karnataka,In Network
+3355,Pharmacy,Delhi,In Network
+3356,Pharmacy,Delhi,In Network
+3357,Hospital,Delhi,In Network
+3358,Clinic,Delhi,In Network
+3359,Pharmacy,Telangana,In Network
+3360,Clinic,Telangana,In Network
+3361,Clinic,Maharashtra,In Network
+3362,Diagnostic Centre,Delhi,Out of Network
+3363,Clinic,Delhi,In Network
+3364,Diagnostic Centre,Karnataka,Out of Network
+3365,Diagnostic Centre,Tamil Nadu,In Network
+3366,Pharmacy,Telangana,In Network
+3367,Diagnostic Centre,Kerala,In Network
+3368,Hospital,Delhi,In Network
+3369,Clinic,Karnataka,In Network
+3370,Hospital,Telangana,Out of Network
+3371,Clinic,Delhi,In Network
+3372,Diagnostic Centre,Tamil Nadu,In Network
+3373,Clinic,Delhi,In Network
+3374,Pharmacy,Delhi,Out of Network
+3375,Hospital,Karnataka,In Network
+3376,Hospital,Maharashtra,In Network
+3377,Hospital,Telangana,In Network
+3378,Hospital,Karnataka,In Network
+3379,Pharmacy,Maharashtra,In Network
+3380,Hospital,Delhi,Out of Network
+3381,Diagnostic Centre,Maharashtra,In Network
+3382,Pharmacy,Delhi,In Network
+3383,Pharmacy,Maharashtra,In Network
+3384,Diagnostic Centre,Karnataka,In Network
+3385,Clinic,Kerala,Out of Network
+3386,Clinic,Telangana,In Network
+3387,Diagnostic Centre,Delhi,In Network
+3388,Clinic,Telangana,Out of Network
+3389,Clinic,Kerala,In Network
+3390,Clinic,Delhi,Out of Network
+3391,Hospital,Delhi,In Network
+3392,Clinic,Tamil Nadu,In Network
+3393,Hospital,Kerala,In Network
+3394,Clinic,Delhi,In Network
+3395,Clinic,Kerala,Out of Network
+3396,Pharmacy,Karnataka,In Network
+3397,Pharmacy,Delhi,In Network
+3398,Pharmacy,Karnataka,In Network
+3399,Hospital,Delhi,In Network
+3400,Diagnostic Centre,Delhi,Out of Network
